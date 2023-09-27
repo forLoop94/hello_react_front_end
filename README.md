@@ -35,6 +35,10 @@ Front End React-redux app link
 
 https://github.com/forLoop94/hello_react_front_end.git
 
+Rails API - link
+
+http://localhost:3000/api/v1/greetings
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
